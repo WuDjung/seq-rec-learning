@@ -43,7 +43,7 @@
 
 ```bash
 # 克隆仓库
-git clone https://github.com/你的用户名/seq-rec-learning.git
+git clone https://github.com/WuDjung/seq-rec-learning.git
 cd seq-rec-learning
 
 # 安装依赖
@@ -56,5 +56,5 @@ pip install -r requirements.txt
 - [BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer](https://arxiv.org/abs/1904.06690) (CIKM 2019)
 - [Actions Speak Louder than Words: Trillion-Parameter Sequential Transducers for Generative Recommendations](https://arxiv.org/abs/2402.17152) (ICML 2024)
 - [MovieLens-1M 数据集](https://grouplens.org/datasets/movielens/1m/)
-```
+
 
