@@ -1,0 +1,30 @@
+# 数据文件（不上传到 GitHub）
+data/
+*.zip
+
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# 训练产生的模型文件
+*.pt
+*.pth
+*.pkl
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# IDE 配置
+.vscode/
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# 虚拟环境
+venv/
+env/
+.env/
