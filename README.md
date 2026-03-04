@@ -9,8 +9,8 @@
 ### 第一阶段：基础入门（进行中）
 
 - [x] 理解序列推荐任务定义
-- [ ] 从零实现 SASRec（MovieLens-1M）
-- [ ] 精读 SASRec 论文
+- [x] 从零实现 SASRec（MovieLens-1M）
+- [x] 精读 SASRec 论文
 - [ ] 精读 BERT4Rec 论文
 
 ### 第二阶段：生成式推荐
